@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="https://i.ibb.co.com/chJjJJhn/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="Hello world">
+![logo](https://github.com/Salman472/Salman472/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 
 <br/>
 
