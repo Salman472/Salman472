@@ -20,6 +20,8 @@
 - 👋 Hi, I’m **[@Md. Salman Hossain](https://github.com/Salman472)**
 - 🖥️ I’m currently working on **Html, Css, Javascript, React and TailwindCss** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
+- ⚡ I am exploring **Next.js**.
+- 🌍✈️ I’m working on a **tourism website**.
 - 🛠️ I’m currently building **MERN STACK APPICATION**.
 - 💬 Ask me about **Full-Stack (MongoDB, Express.js, React.js and Node.js)**.
 - 📫 Feel free to reach me out **[Email](mds619820@gmail.com)**
