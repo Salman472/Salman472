@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="Navy Blue Geometric Technology LinkedIn Banner (1).png" width:500px alt="Hello world">
+<img src="banner.png" width:500px alt="Hello world">
 
 <br/>
 
