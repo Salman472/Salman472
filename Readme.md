@@ -52,7 +52,7 @@
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/Salman472)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/Salman472)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next.js,nodejs,express)](https://github.com/Salman472)
 
 ### Database & Model:
 [![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/Salman472)
