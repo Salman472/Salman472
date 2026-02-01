@@ -64,7 +64,7 @@
 [![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/Salman472)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)](https://github.com/touhidcodes)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)](https://github.com/Salman472)
 
 <br/>
 
