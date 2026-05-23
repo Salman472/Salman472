@@ -13,15 +13,19 @@
 </a>
   </ul>
 </div>
-
 <br/>
-
 <!-- =============================== -->
 <!-- ✨ Divider -->
 <!-- =============================== -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+<!-- =============================== -->
+<!-- 👁️ GitHub Profile View Counter -->
+<!-- =============================== -->
+<p align="center">
+  <img width="150px" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=22CCB2" />
+</p>
 
 <!--- about --->
 - 👋 Hi, I’m **[@Md. Salman Hossain](https://github.com/Salman472)**
