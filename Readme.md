@@ -44,6 +44,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman472&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <!-- Main Stats Card -->
+   <img src="https://github-readme-stats.vercel.app/api?username=Salman472&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Salman472&show_icons=true&theme=tokyonight" />
+
+  <br/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman472&theme=tokyonight&hide_border=true&background=1A1B27&border=EBEBEB" width="48%"/>
+<br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman472&layout=compact&theme=tokyonight" />
+</p>
+
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
