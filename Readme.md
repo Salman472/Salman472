@@ -16,6 +16,13 @@
 
 <br/>
 
+<!-- =============================== -->
+<!-- ✨ Divider -->
+<!-- =============================== -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 <!--- about --->
 - 👋 Hi, I’m **[@Md. Salman Hossain](https://github.com/Salman472)**
 - 🖥️ I’m currently working on **Html, Css, Javascript, React and TailwindCss** for frontend development.
