@@ -115,6 +115,9 @@
 
 ---
 
-<!--- visit count --->
+<!-- footer -->
+<p align="center">
+  <img src="./assets/footer.svg" align="center" width="90%" />
+</p>
 
 
