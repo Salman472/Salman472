@@ -114,6 +114,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
 ---
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"/>
 
 <p align="center">
   <img
