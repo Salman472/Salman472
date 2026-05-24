@@ -116,26 +116,5 @@
 ---
 <!-- tropy -->
 <img src="https://github-profile-trophy.vercel.app/?username=Salman472&theme=onedark"/>
-<!-- footer -->
-<svg width="1200" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#0D1117"/>
 
-  <text
-    x="1200"
-    y="75"
-    font-family="Poppins, Arial, sans-serif"
-    font-size="42"
-    font-weight="bold"
-    fill="#00BFFF">
-
-    👋 Thanks for Visiting My Profile .
-
-    <animate
-      attributeName="x"
-      from="1200"
-      to="-1800"
-      dur="15s"
-      repeatCount="indefinite" />
-  </text>
-</svg>
 
