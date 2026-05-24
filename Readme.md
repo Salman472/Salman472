@@ -69,6 +69,7 @@
 <br/>
 
 <!--- technology --->
+<!--
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
@@ -90,7 +91,77 @@
 [![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/Salman472)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)](https://github.com/Salman472)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)](https://github.com/Salman472)-->
+
+## 🚀 What I Bring to the Table
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width="25" /> **Tech Stack & Tools**
+
+
+  <table>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td><strong>Backend</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap"
+          height="40"
+        />
+      </td>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=nodejs,expressjs,php,laravel"
+          height="40"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Database</strong></td>
+      <td><strong>CMS (Content Management System)</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" 
+          height="40" 
+          />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=wordpress"
+          height="40"
+          />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Version Control</strong></td>
+      <td><strong>Practice</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=git,github"
+          height="40"
+        />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=vscode,phpstorm,discord,codepen" 
+          height="40" 
+          />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Other Tools</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img
+          src="https://skillicons.dev/icons?i=npm,vite,firebase,vercel,netlify,postman,devto,figma,ps,ai,pr,notion,bash,githubactions,sass"
+          height="40"
+        />
+      </td>
+    </tr>
+  </table>
 
 <br/>
 
