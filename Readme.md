@@ -121,7 +121,7 @@
   <img
     height="120"
     width="100%"
-    src="https://raw.githubusercontent.com/Salman472/Salman472/main/assets/marquee-blue.svg"
+    src="[https://raw.githubusercontent.com/Salman472/Salman472/main/assets/marquee-blue.svg](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)"
   />
 </p>
 
