@@ -1,6 +1,6 @@
 
 <!--- banner --->
-<img src="banner.png" width:500px alt="Hello world">
+<img src="./assets/banner.png" width:500px alt="Hello world">
 
 <br/>
 
