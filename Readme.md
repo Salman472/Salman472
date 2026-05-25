@@ -40,11 +40,17 @@
 - 💬 Ask me about **Full-Stack (MongoDB, Express.js, React.js and Node.js)**.
 - 📫 Feel free to reach me out **[Email](mds619820@gmail.com)**
   
+
+  <!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman472&theme=tokyonight" />
 </p>
 ## 🌀 Working Mode Activated
-
+<br>
 <p align="center">
   <img src="./assets/animated.gif" align="center" width="90%" />
 </p>
