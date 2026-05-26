@@ -82,12 +82,12 @@
       <td><strong>Backend</strong></td>
     </tr>
     <tr>
-      <td align="center">
+      <td >
 
   <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" height="40" />
 
-  <br><br>
+  <br>
 
   <!-- Row 2 -->
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
