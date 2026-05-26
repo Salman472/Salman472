@@ -72,30 +72,6 @@
 
 <br/>
 
-<!--- technology --->
-<!--
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
-
-### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/Salman472)
-
-### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/Salman472)
-
-### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,express)](https://github.com/Salman472)
-
-### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/Salman472)
-
-### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/Salman472)
-
-### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/Salman472)
-
-### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)](https://github.com/Salman472)-->
 
 ## 🚀 What I Bring to the Table
 
