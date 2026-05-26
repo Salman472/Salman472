@@ -125,17 +125,11 @@
     </tr>
     <tr>
       <td><strong>Database</strong></td>
-      <td><strong>CMS (Content Management System)</strong></td>
     </tr>
     <tr>
       <td>
         <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" 
           height="40" 
-          />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=wordpress"
-          height="40"
           />
       </td>
     </tr>
