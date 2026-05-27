@@ -19,7 +19,7 @@
 <!-- 👁️ GitHub Profile View Counter -->
 <!-- =============================== -->
 <p align="center">
-  <img width="150px" src="https://komarev.com/ghpvc/?username=Salman472&style=flat-square&color=22CCB2" />
+  <img width="150px" src="https://komarev.com/ghpvc/?username=dev-salman-hossain&style=flat-square&color=22CCB2" />
 </p>
 <!-- =============================== -->
 <!-- ✨ Divider -->
@@ -30,7 +30,7 @@
 
 <!--- about --->
 
-- 👋 Hi, I’m **[@Md. Salman Hossain](https://github.com/Salman472)**
+- 👋 Hi, I’m **[@Md. Salman Hossain](https://github.com/dev-salman-hossain)**
 - 🖥️ I’m currently working on **Html, Css, Javascript, React and TailwindCss** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
 - ⚡ I am exploring **Next.js**.
@@ -45,7 +45,7 @@
   </h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman472&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-salman-hossain&theme=tokyonight" />
 </p>
 ## 🌀 Working Mode Activated
 <br>
