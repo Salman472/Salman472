@@ -40,7 +40,7 @@
 - 📫 Feel free to reach me out **[Email](mds619820@gmail.com)**
 
     <!--  Divider -->
-  <h3 align="center" width="1500px">
+  <h3 align="center" >
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
 
@@ -84,7 +84,7 @@
   </tr>
 </table>
     <!--  Divider -->
-  <h3 align="center" width="1500px">
+  <h3 align="center" >
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
 
@@ -182,7 +182,7 @@
 
 <br/>
 
-  <h3 align="center" width="1500px">
+  <h3 align="center" >
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
   
@@ -191,7 +191,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-salman-hossain&theme=tokyonight" />
 </p>
 ## 🌀 Working Mode Activated
-<br>
+<br> <br>
 <p align="center">
   <img src="./assets/animated.gif" align="center" width="90%" />
 </p>
