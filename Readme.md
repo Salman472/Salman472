@@ -18,7 +18,7 @@
 <!-- =============================== -->
 <!-- 👁️ GitHub Profile View Counter -->
 <!-- =============================== -->
-<p align="center" width="1800px">
+<p align="center" width="150px">
   <img width="150px" src="https://komarev.com/ghpvc/?username=dev-salman-hossain&style=flat-square&color=22CCB2" />
 </p>
 <!-- =============================== -->
@@ -141,7 +141,7 @@
 
 
     <!-- Divider -->
-  <h3 align="center">
+  <h3 align="center" width="1500px">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
   
