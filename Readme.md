@@ -39,8 +39,8 @@
 - 💬 Ask me about **Full-Stack (MongoDB, Express.js, React.js and Node.js)**.
 - 📫 Feel free to reach me out **[Email](mds619820@gmail.com)**
 
-    <!-- ✨ Divider -->
-  <h3 align="center">
+    <!--  Divider -->
+  <h3 align="center" width="1500px">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
 
@@ -140,7 +140,7 @@
 <br/>
 
 
-    <!-- ✨ Divider -->
+    <!-- Divider -->
   <h3 align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
