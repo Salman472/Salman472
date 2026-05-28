@@ -44,6 +44,49 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
 
+  <!--social-->
+  <table>
+  <tr>
+
+
+    <td align="center">
+      <a href="https://www.linkedin.com/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+      </a>
+      <br />
+      LinkedIn
+    </td>
+
+    <td align="center">
+      <a href="https://twitter.com/">
+        <img src="https://skillicons.dev/icons?i=facebook" width="45" />
+      </a>
+      <br />
+      Facebook
+    </td>
+
+    <td align="center">
+      <a href="mailto:yourmail@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+      </a>
+      <br />
+      Gmail
+    </td>
+
+    <td align="center">
+      <a href="https://discord.com/users/">
+        <img src="https://skillicons.dev/icons?i=discord" width="45" />
+      </a>
+      <br />
+      Discord
+    </td>
+  </tr>
+</table>
+    <!--  Divider -->
+  <h3 align="center" width="1500px">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  </h3>
+
 <!--tech stack-->
 
 ## 🚀 What I Bring to the Table
