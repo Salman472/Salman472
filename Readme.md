@@ -44,33 +44,7 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-salman-hossain&theme=tokyonight" />
-</p>
-## 🌀 Working Mode Activated
-<br>
-<p align="center">
-  <img src="./assets/animated.gif" align="center" width="90%" />
-</p>
-
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!--- socials --->
-
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
-
-<div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/salman-hossain-dev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
-    <a href="https://discord.gg/dev_salman_hossain" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
-
-  </p>
-</div>
-
-<br/>
+<!--tech stack-->
 
 ## 🚀 What I Bring to the Table
 
@@ -144,6 +118,44 @@
   </table>
 
 <br/>
+
+
+    <!-- ✨ Divider -->
+  <h3 align="center">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  </h3>
+  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-salman-hossain&theme=tokyonight" />
+</p>
+## 🌀 Working Mode Activated
+<br>
+<p align="center">
+  <img src="./assets/animated.gif" align="center" width="90%" />
+</p>
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<!--- socials --->
+
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/salman-hossain-dev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
+    <a href="https://discord.gg/dev_salman_hossain" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
+
+  </p>
+</div>
+
+<br/>
+
+
+
 
 <!--- statistics --->
 
