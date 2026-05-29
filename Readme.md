@@ -206,6 +206,10 @@
 <!--- statistics --->
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+ <!--  Divider -->
+  <h3 align="center" >
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  </h3>
 
 ### GitHub Contributions:
 
