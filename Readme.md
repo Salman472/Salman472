@@ -230,7 +230,7 @@
 ---
 
 <!-- tropy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Salman472&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dev-salman-hossain&theme=onedark"/>
 
 <!-- footer -->
 <p align="center">
