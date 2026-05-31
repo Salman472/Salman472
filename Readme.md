@@ -221,18 +221,18 @@
 
 <br/>
 
-<!--- random quote --->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
 ---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dev-salman-hossain&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+<!--- random quote --->
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 <!-- footer -->
 <p align="center">
   <img src="./assets/footer.svg" align="center" width="90%" />
