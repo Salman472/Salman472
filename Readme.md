@@ -211,6 +211,17 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-salman-hossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
+<br>
+## 🔥 **Contribution Activity**
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dev-salman-hossain&theme=tokyonight&hide_border=true&background=0D1117)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-salman-hossain&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+
+</div>
+
 
 <!--- statistics --->
 
